@@ -1,1 +1,16 @@
-
+{
+  "id": 1,
+  "environment": ["Samsung A41", "Android 12", "Chrome 113"],
+  "title": "Missing images on some Glossary pages",
+  "steps_to_reproduce": ["Navigate to cite
+2. Hover over the [Education] menu section
+2. Click the [Glossary of trading terms] item
+3. Click a Glossary term from this list
+4. Open devtools and look at the image element img srcset",
+  "expectly_result": "",
+  "actual_result": "",
+  "link": "",
+  "comments": "",
+  "bug_reproduced": "Yuriy Melnikov",
+  "bug_reviewed": "Oleg Ivanov"
+}
